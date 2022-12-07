@@ -162,7 +162,7 @@ body {
     background-color: #3882f6;
     display: flex;
     color: #f9faf8;
-    padding: 36px 96px;
+    padding: 48px 96px;
     border-radius: 8px;
 
 }
@@ -177,4 +177,14 @@ body {
     font-size: 18px;
     padding: 8px 32px;
     border: 2px solid #f9faf8;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
+    height: 100px;
 }
